@@ -1,0 +1,373 @@
+2024-06-11 17:43:44,293 - WARNING: Error in loading license from server java.lang.Exception: no license key in AppConfig.json
+2024-06-11 17:43:44,323 - WARNING: Running with 100 CCU limit
+2024-06-11 17:43:44,568 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 17:43:44,568 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-11 17:44:52,728 - WARNING: Error in loading license from server java.lang.Exception: no license key in AppConfig.json
+2024-06-11 17:44:52,768 - WARNING: Running with 100 CCU limit
+2024-06-11 17:44:52,891 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 17:44:52,891 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-11 17:54:25,890 - WARNING: Error in loading license from server java.lang.Exception: no license key in AppConfig.json
+2024-06-11 17:54:25,910 - WARNING: Running with 100 CCU limit
+2024-06-11 17:54:26,041 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 17:54:26,043 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-11 17:55:17,565 - WARNING: Error in loading license from server java.lang.Exception: no license key in AppConfig.json
+2024-06-11 17:55:17,578 - WARNING: Running with 100 CCU limit
+2024-06-11 17:55:17,871 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 17:55:17,871 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-11 17:56:56,418 - WARNING: Error in loading license from server java.lang.Exception: no license key in AppConfig.json
+2024-06-11 17:56:56,436 - WARNING: Running with 100 CCU limit
+2024-06-11 17:56:56,561 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 17:56:56,569 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-11 17:56:58,355 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 17:56:58,356 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-11 17:56:58,356 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 17:56:58,356 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-11 17:56:58,356 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 17:56:58,356 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-11 18:06:19,833 - WARNING: Error in loading license from server java.lang.Exception: no license key in AppConfig.json
+2024-06-11 18:06:19,843 - WARNING: Running with 100 CCU limit
+2024-06-11 18:06:19,986 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 18:06:19,986 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-11 18:06:21,524 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 18:06:21,525 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-11 18:06:21,525 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 18:06:21,525 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-11 18:06:21,525 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 18:06:21,525 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-11 18:06:28,850 - WARNING: Error in loading license from server java.lang.Exception: no license key in AppConfig.json
+2024-06-11 18:06:28,860 - WARNING: Running with 100 CCU limit
+2024-06-11 18:06:28,992 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 18:06:28,992 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-11 18:06:30,276 - ERROR: Error in starting TCP server java.net.BindException: Address already in use: bind
+2024-06-11 18:06:30,456 - ERROR: Error in starting FlashPolicyServer java.net.BindException: Address already in use: bind
+2024-06-11 18:06:30,456 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 18:06:30,458 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-11 18:06:30,458 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 18:06:30,458 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-11 18:06:30,458 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 18:06:30,458 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-11 19:21:30,580 - WARNING: Error in loading license from server java.lang.Exception: no license key in AppConfig.json
+2024-06-11 19:21:30,580 - WARNING: Running with 100 CCU limit
+2024-06-11 19:21:30,738 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 19:21:30,738 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-11 19:21:32,184 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 19:21:32,184 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-11 19:21:32,184 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 19:21:32,184 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-11 19:21:32,184 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 19:21:32,184 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-12 09:43:25,302 - WARNING: Error in loading license from server java.lang.Exception: no license key in AppConfig.json
+2024-06-12 09:43:25,302 - WARNING: Running with 100 CCU limit
+2024-06-12 09:43:25,442 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-12 09:43:25,442 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-12 09:43:26,893 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-12 09:43:26,893 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-12 09:43:26,893 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-12 09:43:26,893 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-12 09:43:26,893 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-12 09:43:26,893 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-12 09:44:44,051 - WARNING: Error in loading license from server java.lang.Exception: no license key in AppConfig.json
+2024-06-12 09:44:44,067 - WARNING: Running with 100 CCU limit
+2024-06-12 09:44:44,192 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-12 09:44:44,192 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-12 09:44:45,651 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-12 09:44:45,651 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-12 09:44:45,651 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-12 09:44:45,651 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-12 09:44:45,651 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-12 09:44:45,651 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-12 10:20:04,646 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 10:20:04,665 - WARNING: Running with 100 CCU limit
+2024-06-12 10:20:05,697 - ERROR: Error in getAllZonesFromHSQLDB java.sql.SQLSyntaxErrorException: user lacks privilege or object not found: SERVICE
+2024-06-12 10:25:46,529 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 10:25:46,539 - WARNING: Running with 100 CCU limit
+2024-06-12 10:30:41,533 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 10:30:41,545 - WARNING: Running with 100 CCU limit
+2024-06-12 10:32:19,736 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 10:32:19,757 - WARNING: Running with 100 CCU limit
+2024-06-12 10:35:18,725 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 10:35:18,755 - WARNING: Running with 100 CCU limit
+2024-06-12 10:36:49,151 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 10:36:49,161 - WARNING: Running with 100 CCU limit
+2024-06-12 10:42:45,382 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 10:42:45,411 - WARNING: Running with 100 CCU limit
+2024-06-12 11:04:29,173 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-12 11:04:51,456 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 11:04:51,468 - WARNING: Running with 100 CCU limit
+2024-06-12 11:09:18,780 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 11:09:18,795 - WARNING: Running with 100 CCU limit
+2024-06-12 11:22:00,502 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 11:22:00,545 - WARNING: Running with 100 CCU limit
+2024-06-12 11:23:14,256 - ERROR: Error in getAllRoomsFromHSQLDB java.sql.SQLSyntaxErrorException: user lacks privilege or object not found: ROOM
+2024-06-12 11:25:21,768 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 11:25:21,768 - WARNING: Running with 100 CCU limit
+2024-06-12 11:43:36,793 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 11:43:36,802 - WARNING: Running with 100 CCU limit
+2024-06-12 11:43:54,571 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:53821
+2024-06-12 11:43:54,590 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:53822
+2024-06-12 11:44:04,940 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:53847
+2024-06-12 11:44:16,036 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:53853
+2024-06-12 11:44:16,039 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:53854
+2024-06-12 11:44:31,422 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:53864
+2024-06-12 11:44:31,422 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:53865
+2024-06-12 11:44:41,444 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:53874
+2024-06-12 11:53:36,815 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-12 11:53:37,613 - WARNING: responseCode:404
+2024-06-12 11:53:38,005 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-12 12:32:10,480 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:55860
+2024-06-12 12:32:10,483 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:55861
+2024-06-12 12:32:21,578 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:55862
+2024-06-12 12:32:33,003 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:55873
+2024-06-12 12:32:43,021 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:55872
+2024-06-12 12:32:53,081 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:55915
+2024-06-12 12:33:08,161 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:55928
+2024-06-12 12:33:08,161 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:55929
+2024-06-12 12:33:19,363 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:55931
+2024-06-12 13:21:18,336 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 13:21:18,351 - WARNING: Running with 100 CCU limit
+2024-06-12 13:59:03,871 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-12 13:59:04,638 - WARNING: responseCode:404
+2024-06-12 13:59:05,695 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-12 14:08:07,142 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 14:08:07,163 - WARNING: Running with 100 CCU limit
+2024-06-12 14:18:20,837 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 14:18:20,869 - WARNING: Running with 100 CCU limit
+2024-06-12 14:28:20,870 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-12 14:28:21,759 - WARNING: responseCode:404
+2024-06-12 14:28:22,052 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-12 16:16:13,147 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 16:16:13,163 - WARNING: Running with 100 CCU limit
+2024-06-12 16:16:53,301 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 16:16:53,317 - WARNING: Running with 100 CCU limit
+2024-06-12 16:26:53,331 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-12 16:26:54,380 - WARNING: responseCode:404
+2024-06-12 16:26:54,645 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-12 16:48:06,509 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 16:48:06,541 - WARNING: Running with 100 CCU limit
+2024-06-12 16:58:06,668 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-12 16:58:07,877 - WARNING: responseCode:404
+2024-06-12 16:58:09,362 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-12 17:49:51,369 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 17:49:51,385 - WARNING: Running with 100 CCU limit
+2024-06-12 17:59:51,399 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-12 17:59:52,670 - WARNING: responseCode:404
+2024-06-12 17:59:53,189 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-12 22:29:37,292 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 22:29:37,313 - WARNING: Running with 100 CCU limit
+2024-06-12 22:29:38,486 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-12 22:29:38,487 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-12 22:29:42,221 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-12 22:29:42,222 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-12 22:29:42,224 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-12 22:29:42,224 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-12 22:29:42,226 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-12 22:29:42,226 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-12 22:39:37,616 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-12 22:39:38,131 - WARNING: responseCode:404
+2024-06-12 22:39:38,778 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-12 22:51:05,360 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-12 22:58:32,739 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-12 22:58:32,748 - WARNING: exceptionCaught cause null remote /127.0.0.1:60357
+2024-06-12 23:00:43,062 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-12 23:00:43,088 - WARNING: exceptionCaught cause null remote /127.0.0.1:60421
+2024-06-12 23:00:44,860 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:05:33,518 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 00:05:33,533 - WARNING: Running with 100 CCU limit
+2024-06-13 00:05:34,029 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:05:34,029 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-13 00:05:37,836 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:05:37,838 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 00:05:37,840 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:05:37,841 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 00:05:37,850 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:05:37,854 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 00:05:50,609 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 00:05:50,628 - WARNING: Running with 100 CCU limit
+2024-06-13 00:05:51,718 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:05:51,718 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-13 00:05:54,587 - ERROR: Error in starting TCP server java.net.BindException: Address already in use: bind
+2024-06-13 00:05:54,770 - ERROR: Error in starting FlashPolicyServer java.net.BindException: Address already in use: bind
+2024-06-13 00:05:54,773 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:05:54,773 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 00:05:54,775 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:05:54,776 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 00:05:54,779 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:05:54,780 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 00:06:07,140 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 00:06:07,157 - WARNING: Running with 100 CCU limit
+2024-06-13 00:06:07,841 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:06:07,843 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-13 00:06:10,035 - ERROR: Error in starting TCP server java.net.BindException: Address already in use: bind
+2024-06-13 00:06:10,252 - ERROR: Error in starting FlashPolicyServer java.net.BindException: Address already in use: bind
+2024-06-13 00:06:10,254 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:06:10,255 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 00:06:10,257 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:06:10,257 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 00:06:10,262 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:06:10,262 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 00:07:30,320 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:12:07,579 - WARNING: closing unknown idle session /127.0.0.1:62809
+2024-06-13 00:12:17,017 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:13:46,690 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:15:33,543 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-13 00:15:34,002 - WARNING: responseCode:404
+2024-06-13 00:15:34,377 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-13 00:15:50,630 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-13 00:15:51,066 - WARNING: responseCode:404
+2024-06-13 00:15:51,329 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-13 00:16:07,158 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-13 00:16:07,597 - WARNING: responseCode:404
+2024-06-13 00:16:07,865 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-13 00:16:09,861 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:17:07,232 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 00:17:07,247 - WARNING: Running with 100 CCU limit
+2024-06-13 00:17:08,182 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:17:08,182 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-13 00:17:11,086 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:17:11,087 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 00:17:11,090 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:17:11,090 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 00:17:11,092 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:17:11,094 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 00:17:28,179 - WARNING: closing unknown idle session /127.0.0.1:63085
+2024-06-13 00:18:13,022 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:18:20,361 - WARNING: closing unknown idle session /127.0.0.1:63115
+2024-06-13 00:18:53,110 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:19:55,407 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:23:10,924 - WARNING: closing unknown idle session /127.0.0.1:63253
+2024-06-13 00:24:56,000 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:25:57,238 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:25:57,243 - WARNING: exceptionCaught cause null remote /127.0.0.1:63341
+2024-06-13 00:26:42,579 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:26:48,178 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:27:07,248 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-13 00:27:07,709 - WARNING: responseCode:404
+2024-06-13 00:27:07,975 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-13 00:27:53,025 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:30:16,593 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:33:36,859 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:34:43,764 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:37:46,044 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:39:05,203 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:41:27,737 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:42:03,186 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:42:45,988 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:42:56,077 - WARNING: closing unknown idle session /192.168.1.18:63425
+2024-06-13 00:43:23,416 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:46:34,482 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:46:34,487 - WARNING: exceptionCaught cause null remote /127.0.0.1:63996
+2024-06-13 00:46:38,787 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:46:38,799 - WARNING: exceptionCaught cause null remote /127.0.0.1:63999
+2024-06-13 00:46:40,018 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:46:50,635 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:46:52,115 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:47:33,979 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:47:37,663 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:48:08,728 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:49:14,779 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:49:14,821 - WARNING: exceptionCaught cause null remote /127.0.0.1:64089
+2024-06-13 00:49:16,308 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:49:16,310 - WARNING: exceptionCaught cause null remote /127.0.0.1:64091
+2024-06-13 00:49:17,541 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:50:47,645 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:50:47,653 - WARNING: exceptionCaught cause null remote /127.0.0.1:64135
+2024-06-13 00:50:49,137 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:50:49,153 - WARNING: exceptionCaught cause null remote /127.0.0.1:64137
+2024-06-13 00:50:51,274 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:50:55,735 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:51:24,686 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:55:47,317 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:55:47,387 - WARNING: exceptionCaught cause null remote /127.0.0.1:64306
+2024-06-13 00:55:49,555 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:55:58,072 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:55:58,075 - WARNING: exceptionCaught cause null remote /127.0.0.1:64314
+2024-06-13 00:55:59,600 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:56:01,600 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:56:35,803 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 00:56:35,819 - WARNING: Running with 100 CCU limit
+2024-06-13 00:57:03,772 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 00:57:03,788 - WARNING: Running with 100 CCU limit
+2024-06-13 04:24:10,500 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 04:24:10,500 - WARNING: Running with 100 CCU limit
+2024-06-13 04:24:10,774 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 04:24:10,774 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-13 04:24:12,213 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 04:24:12,214 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 04:24:12,216 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 04:24:12,216 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 04:24:12,218 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 04:24:12,218 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 04:34:24,977 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 04:34:24,992 - WARNING: Running with 100 CCU limit
+2024-06-13 05:18:19,584 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 05:18:19,600 - WARNING: Running with 100 CCU limit
+2024-06-13 05:18:31,643 - WARNING: Adaptor rejected j
+2024-06-13 05:18:33,949 - WARNING: Adaptor rejected j
+2024-06-13 05:19:02,064 - WARNING: Adaptor rejected j
+2024-06-13 05:19:03,620 - WARNING: Adaptor rejected j
+2024-06-13 05:19:04,906 - WARNING: Adaptor rejected j
+2024-06-13 05:19:06,238 - WARNING: Adaptor rejected j
+2024-06-13 05:19:07,679 - WARNING: Adaptor rejected j
+2024-06-13 05:19:08,813 - WARNING: Adaptor rejected j
+2024-06-13 05:19:10,070 - WARNING: Adaptor rejected j
+2024-06-13 05:25:31,782 - WARNING: Adaptor rejected j
+2024-06-13 05:25:33,613 - WARNING: Adaptor rejected j
+2024-06-13 05:25:55,000 - WARNING: Adaptor rejected j
+2024-06-13 05:25:56,267 - WARNING: Adaptor rejected j
+2024-06-13 05:25:57,515 - WARNING: Adaptor rejected j
+2024-06-13 05:25:59,058 - WARNING: Adaptor rejected j
+2024-06-13 05:26:00,375 - WARNING: Adaptor rejected j
+2024-06-13 05:26:01,742 - WARNING: Adaptor rejected j
+2024-06-13 05:26:46,146 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 05:26:46,146 - WARNING: Running with 100 CCU limit
+2024-06-13 05:26:55,700 - WARNING: Adaptor rejected j
+2024-06-13 05:26:55,705 - WARNING: exceptionCaught cause null remote /127.0.0.1:59412
+2024-06-13 05:33:15,275 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 05:33:15,291 - WARNING: Running with 100 CCU limit
+2024-06-13 05:43:15,295 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-13 05:43:15,746 - WARNING: responseCode:404
+2024-06-13 05:43:15,998 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-13 06:29:57,725 - ERROR: Session Id expected 1287244675
+2024-06-13 06:30:33,901 - ERROR: Session Id expected 1445043635
+2024-06-13 06:30:46,931 - ERROR: Session Id expected 1268854726
+2024-06-13 06:33:08,193 - ERROR: Session Id expected 1452232479
+2024-06-13 06:49:17,145 - ERROR: Session Id expected 1608508029
+2024-06-13 06:50:31,485 - ERROR: Session Id expected 1285173038
+2024-06-13 06:52:13,334 - ERROR: Session Id expected 224059632
+2024-06-13 06:55:59,970 - ERROR: Session Id expected 1496922832
+2024-06-13 06:56:47,119 - ERROR: Session Id expected 1522109762
+2024-06-13 07:27:18,504 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 07:27:18,520 - WARNING: Running with 100 CCU limit
+2024-06-13 07:27:18,994 - ERROR: Error in getHashMapFromProperties org.json.JSONException: A JSONObject text must begin with '{' at character 1 of props
+2024-06-13 07:27:19,010 - ERROR: Error in getHashMapFromProperties org.json.JSONException: A JSONObject text must begin with '{' at character 1 of props
+2024-06-13 07:37:18,527 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-13 07:37:18,986 - WARNING: responseCode:404
+2024-06-13 07:37:19,263 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-13 07:47:57,942 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 07:47:57,958 - WARNING: Running with 100 CCU limit
+2024-06-13 07:49:22,740 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 07:49:22,802 - WARNING: Running with 100 CCU limit
+2024-06-13 07:50:33,763 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 07:50:33,779 - WARNING: Running with 100 CCU limit
+2024-06-13 07:50:58,199 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 07:50:58,199 - WARNING: Running with 100 CCU limit
+2024-06-13 07:53:11,534 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 07:53:11,550 - WARNING: Running with 100 CCU limit
+2024-06-13 08:03:11,551 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-13 08:03:12,056 - WARNING: responseCode:404
+2024-06-13 08:03:12,326 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-13 08:11:29,599 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 08:11:29,599 - WARNING: Running with 100 CCU limit
+2024-06-13 08:12:26,342 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 08:12:26,342 - WARNING: Running with 100 CCU limit
+2024-06-13 08:12:31,301 - ERROR: Error in starting UDPServer java.lang.IllegalStateException: Shutdown in progress
+2024-06-13 08:14:10,674 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 08:14:10,674 - WARNING: Running with 100 CCU limit
+2024-06-13 08:24:10,889 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-13 08:24:11,352 - WARNING: responseCode:404
+2024-06-13 08:24:14,300 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-13 09:53:44,031 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 09:53:44,047 - WARNING: Running with 100 CCU limit
+2024-06-13 10:03:44,058 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-13 10:03:48,033 - WARNING: responseCode:404
+2024-06-13 10:03:48,331 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
